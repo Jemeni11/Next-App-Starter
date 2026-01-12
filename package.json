@@ -12,7 +12,8 @@
     "stylelint:fix": "stylelint **/*.css --fix",
     "eslint:fix": "eslint --fix",
     "lint:fix": "pnpm eslint:fix && pnpm stylelint:fix",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "prepare": "husky"
   },
   "dependencies": {
     "next": "16.1.1",
@@ -29,6 +30,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.1",
     "husky": "^9.1.7",
+    "lint-staged": "^16.2.7",
     "prettier": "^3.7.4",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "stylelint": "^16.26.1",
