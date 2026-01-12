@@ -1,4 +1,22 @@
+# Next.js App Router Starter Template
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Intro
+
+Hey! This is a Next template with the following installed:
+
+React v19
+Next v16
+Typescript v5
+TailwindCSS v4
+Prettier v3
+prettier-plugin-tailwind v0.7.2
+ESLint v9
+Stylelint v16
+husky v9
+lint-staged
+@ianvs/prettier-plugin-sort-imports v4
 
 ## Getting Started
 
