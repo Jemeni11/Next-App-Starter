@@ -1,28 +1,3 @@
-# Next App Starter (Next + TypeScript + TailwindCSS + Prettier + ESLint)
-
-## Introduction
-
-Hey!
-This is a Next template with the following installed:
-
-- Next
-- Typescript
-- TailwindCSS
-- Prettier
-- prettier-plugin-tailwind
-- ESLint
-
-## Wait a minute, who are you?
-
-Hello there! I'm Emmanuel Jemeni, and I work as a Frontend Developer. You can find me on various platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/emmanuel-jemeni)
-- [GitHub](https://github.com/Jemeni11)
-- [Twitter/X](https://twitter.com/Jemeni11_)
-- [Bluesky](https://bsky.app/profile/jemeni11.bsky.social)
-
-## Next-Specific Information
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
